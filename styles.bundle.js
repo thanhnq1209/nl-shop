@@ -3,7 +3,7 @@ webpackJsonp(["styles"],{
 /***/ "./node_modules/raw-loader/index.js!./node_modules/postcss-loader/lib/index.js??embedded!./src/styles.css":
 /***/ (function(module, exports) {
 
-module.exports = ".img-product-view{\r\n    height: 120px !important;\r\n    width: 120px !important;\r\n}\r\n.img-margin{\r\n    margin: 20px !important;\r\n}"
+module.exports = ".img-product-view{\r\n    height: 120px !important;\r\n    width: 120px !important;\r\n}\r\n.img-margin{\r\n    margin: 20px !important;\r\n}\r\n.cart-list li .cart-item-wrapper a.remove, .woocommerce .widget_shopping_cart .cart_list li a.remove, .woocommerce.widget_shopping_cart .cart_list li a.remove{\r\n    right: -35px !important;\r\n}\r\n.owl-item{\r\n    width: 212px !important;\r\n}"
 
 /***/ }),
 
