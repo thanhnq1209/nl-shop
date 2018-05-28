@@ -2055,7 +2055,7 @@ table.wishlist-product .a-center { text-align: center; }
   left: 0;
   right: 0;
   height: 20px;
-  background:url(line-bottom-menu.png) top left repeat-x;
+  /* background:url(line-bottom-menu.png) top left repeat-x; */
   z-index: 0;
   opacity: 0.8;
 }

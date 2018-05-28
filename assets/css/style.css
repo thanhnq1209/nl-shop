@@ -2928,7 +2928,7 @@ header.ts-header .header-v6 .header-middle:after{
 	margin-top:0;
 	left:0;right:0;
 	height:20px;
-	background:url(images/line-bottom-menu.png) top left repeat-x;
+	/* background:url(images/line-bottom-menu.png) top left repeat-x; */
 	z-index:0;
 	opacity:0.8;
 }
@@ -13754,7 +13754,7 @@ div.bbp-breadcrumb{
 		margin-top:0;
 		left:0;right:0;
 		height:20px;
-		background:url(images/line-bottom-menu.png) top left repeat-x;
+		/* background:url(images/line-bottom-menu.png) top left repeat-x; */
 		z-index:0;
 		opacity:0.8;
 	}
